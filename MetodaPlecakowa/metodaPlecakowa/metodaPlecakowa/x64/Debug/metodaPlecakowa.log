@@ -1,0 +1,21 @@
+﻿  Main.cpp
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(67,20): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "float", możliwa utrata danych
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(71,20): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(74,20): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(107,20): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "float", możliwa utrata danych
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(111,20): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(114,20): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(153,27): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(154,28): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(179,23): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(180,24): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(182,20): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "float", możliwa utrata danych
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(186,20): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(189,20): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(225,20): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "float", możliwa utrata danych
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(227,23): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(228,24): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(232,20): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(235,20): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\Main.cpp(265,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  metodaPlecakowa.vcxproj -> C:\Users\Dawid\Desktop\Programowanie\GitHub\MetodaPlecakowa\metodaPlecakowa\x64\Debug\metodaPlecakowa.exe
